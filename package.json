@@ -1,0 +1,22 @@
+{
+  "name": "adventuregame00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rippler7/adventureGame00.git"
+  },
+  "author": "Jeremy Ancog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rippler7/adventureGame00/issues"
+  },
+  "homepage": "https://github.com/rippler7/adventureGame00#readme",
+  "devDependencies": {
+    "phaser": "^3.8.0"
+  }
+}
